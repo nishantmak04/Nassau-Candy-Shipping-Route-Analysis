@@ -1,0 +1,11 @@
+Route,Factory,State/Province,Route_Volume,Average_Lead_Time,Median_Lead_Time,Sales,Gross_Profit,Route_Efficiency_Score
+Secret Factory → Nebraska,Secret Factory,Nebraska,1,906.0,906.0,0,0,100.00
+Secret Factory → New Mexico,Secret Factory,New Mexico,1,906.0,906.0,0,0,100.00
+The Other Factory → Louisiana,The Other Factory,Louisiana,2,907.0,907.0,0,0,99.86
+The Other Factory → Connecticut,The Other Factory,Connecticut,2,907.5,907.5,0,0,99.80
+Wicked Choccy's → Maine,Wicked Choccy's,Maine,1,908.0,908.0,0,0,99.73
+Secret Factory → Mississippi,Secret Factory,Mississippi,1,908.0,908.0,0,0,99.73
+Secret Factory → Louisiana,Secret Factory,Louisiana,2,908.5,908.5,0,0,99.66
+Secret Factory → Minnesota,Secret Factory,Minnesota,1,909.0,909.0,0,0,99.59
+Secret Factory → Delaware,Secret Factory,Delaware,1,909.0,909.0,0,0,99.59
+Secret Factory → South Carolina,Secret Factory,South Carolina,1,909.0,909.0,0,0,99.59
