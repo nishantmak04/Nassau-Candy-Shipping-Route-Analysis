@@ -1,0 +1,5 @@
+Ship Mode,Shipments,Average_Lead_Time,Median_Lead_Time,Min_Lead_Time,Max_Lead_Time,Default_Delay_Frequency_%
+Standard Class,6120,1314.33,1274.0,908,1642,46.83
+Second Class,1979,1323.85,1273.0,906,1640,33.96
+Same Day,547,1333.44,1269.0,904,1636,34.37
+First Class,1548,1338.28,1272.0,905,1638,37.21
